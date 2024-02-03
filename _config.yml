@@ -48,13 +48,13 @@ author:
   bio    : "This is a website just dedicated to my YouTube Channel. All my videos are found in my YT. Check my YouTube for more videos."
   links:
     - label: "YouTube Channel"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@cashewjelly"
 
 footer:
   links:
     - label: "YouTube"
-      icon: "fab fa-fw fa-youtube-square"
+      icon: "fab fa-fw fa-youtube"
       url: "https://youtube.com/@cashewjelly"
 
 defaults:
