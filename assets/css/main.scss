@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+$font-stack: Helvetica, sans-serif;
+$primary-color: rgb(13, 74, 205);
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+}
+
+$background-color: rgb(51, 186, 92);
+@import "{{ site.theme }}";
