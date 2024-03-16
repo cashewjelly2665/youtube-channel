@@ -11,7 +11,7 @@ tags = input("Tags: ")
 
 filename = today + "-" + filename + ".md"
 
-f = open(filename, "w")
+f = open("_posts/"+filename, "w")
 f.write("---")
 f.write("\ntitle: " + title)
 f.write("\ndate: " + today + "T12:00:00-00:00")
